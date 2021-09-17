@@ -9,7 +9,7 @@ I have been programming since I was a 14 and love to explore CS.
 - 💞️ I’m looking to collaborate on a spicy Data Project with my company >:) 
 - 📫 How to reach me: 
 
-Email: Sherlyn Martinez021@gmail.com
+Email: SherlynMartinez021@gmail.com
 LinkedIn: https://www.linkedin.com/in/sherlynmartinez/
 
 
