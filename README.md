@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smartinez03. 
+👋 Hi, I’m @smartinez03. 
 
 My name is Sherlyn Martinez, but I go by Ling. 
 I am a freshman at Queens College and currently a data fellow @ PriceWaterhouseCoopers.
