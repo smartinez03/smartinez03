@@ -1,7 +1,7 @@
 👋 Hi, I’m @smartinez03. 
 
-My name is Sherlyn Martinez, but I go by Ling/Lyn. 
-I am a freshman at Queens College Studying Sociology & Minoring in CIT and Data Analytics. 
+My name is Sherlyn Martinez, but I go by Lyn. 
+I am a student at Queens College Studying Sociology & Minoring in CIT and Data Analytics. 
 I have been programming since I was a 14 and love to explore CS. 
 
 - 👀 I’m interested in Data Science/Analytics, Software Development and UX/UI Design. 
